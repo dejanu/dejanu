@@ -2,7 +2,7 @@
 
 <!--
 **dejanu/dejanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 ### Jack of all trades master of none ✨✨✨✨
 
 <br/>
@@ -13,7 +13,7 @@
 
 [twitter]: https://twitter.com/dejanualex
 [linkedin]: https://linkedin.com/in/alexandru-dejanu-b28b3ba5/
--->
+
 
 
 
