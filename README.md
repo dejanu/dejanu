@@ -1,7 +1,5 @@
-### Hi there 👋
-
 <!--
-**dejanu/dejanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dejanu/dejanu** is a ✨ _special_ ✨ 👋
 -->
 ### Jack of all trades master of none ✨✨✨✨
 
