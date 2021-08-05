@@ -6,13 +6,13 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/dejanualex?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdejanualex&screen_name=dejanualex)
 
 ```bash
-     _.-._         ..-..         _.-._
-    (_-.-_)       /|'.'|\       (_'.'_)
-     .\-/.        \)\-/(/        ,-.-.
-  __/ /-. \__   __/ ' ' \__   __/'-'-'\__
- ( (___/___) ) ( (_/-._\_) ) ( (_/   \_) )
-  '.Oo___oO.'   '.Oo___oO.'   '.Oo___oO.'
-  see-no-evil   hear-no-evil  talk-no-evil
+                                                                      _.-._         ..-..         _.-._
+                                                                     (_-.-_)       /|'.'|\       (_'.'_)
+                                                                      .\-/.        \)\-/(/        ,-.-.
+                                                                   __/ /-. \__   __/ ' ' \__   __/'-'-'\__
+                                                                  ( (___/___) ) ( (_/-._\_) ) ( (_/   \_) )
+                                                                   '.Oo___oO.'   '.Oo___oO.'   '.Oo___oO.'
+                                                                   see-no-evil   hear-no-evil  talk-no-evil
 
 ```
 <br />
