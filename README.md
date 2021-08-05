@@ -33,6 +33,7 @@
 [twitter]: https://twitter.com/dejanualex
 [linkedin]: https://linkedin.com/in/alexandru-dejanu-b28b3ba5/
 [youtube]: https://www.youtube.com/channel/UCIH567CDkvt-aV7Hbs43XrA
+[instagram]: https://www.sololearn.com/profile/2194904
 
 
 
