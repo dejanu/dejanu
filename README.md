@@ -14,8 +14,8 @@ fib = lambda n: n if n < 2 else (fib(n - 1) + fib(n - 2))
 
 
 [<img align="left" alt="dejanu | YouTube" width="22px" src="yt.svg" />][youtube]
-[<img align="left" alt="dejanu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="dejanu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="dejanu | Twitter" width="22px" src="twit.svg" />][twitter]
+[<img align="left" alt="dejanu | LinkedIn" width="22px" src="lnk.svg" />][linkedin]
 [<img align="left" alt="dejanu | Instagram" width="22px" src="sololearn.ico" />][sololearn]
 <br />
 ---
