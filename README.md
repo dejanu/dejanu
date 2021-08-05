@@ -27,7 +27,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-![dejanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=dejanu&hide=contribs,prs)
+![dejanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=dejanu&show_icons=true&theme=onedark&hide=contribs,prs)
 
 
 [twitter]: https://twitter.com/dejanualex
