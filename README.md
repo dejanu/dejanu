@@ -5,8 +5,15 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/dejanualex?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdejanualex&screen_name=dejanualex)
 
-```python
-fib = lambda n: n if n < 2 else (fib(n - 1) + fib(n - 2))
+```bash
+     _.-._         ..-..         _.-._
+    (_-.-_)       /|'.'|\       (_'.'_)
+     .\-/.        \)\-/(/        ,-.-.
+  __/ /-. \__   __/ ' ' \__   __/'-'-'\__
+ ( (___/___) ) ( (_/-._\_) ) ( (_/   \_) )
+  '.Oo___oO.'   '.Oo___oO.'   '.Oo___oO.'
+  see-no-evil   hear-no-evil  talk-no-evil
+
 ```
 <br />
 
@@ -19,7 +26,6 @@ fib = lambda n: n if n < 2 else (fib(n - 1) + fib(n - 2))
 [<img align="left" alt="dejanu | Instagram" width="22px" src="sololearn.ico" />][sololearn]
 <br />
 ---
-
 
 <br />
 
