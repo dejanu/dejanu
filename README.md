@@ -26,6 +26,10 @@
 - [Docker 101 format command output](https://faun.pub/docker-101-format-command-output-8e2673f083af?source=rss-29b02aa121d2------2)
 <!-- BLOG-POST-LIST:END -->
 
+---
+![dejanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=dejanu&hide=contribs,prs)
+
+
 [twitter]: https://twitter.com/dejanualex
 [linkedin]: https://linkedin.com/in/alexandru-dejanu-b28b3ba5/
 
