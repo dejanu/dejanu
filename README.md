@@ -11,8 +11,9 @@
 [<img align="left" alt="dejanu | YouTube" width="22px" src="yt.svg" />][youtube]
 [<img align="left" alt="dejanu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="dejanu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="dejanu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+[<img align="left" alt="dejanu | Instagram" width="22px" src="sololearn.ico" />][sololearn]
+<br />
+---
 [![Twitter Follow](https://img.shields.io/twitter/follow/dejanualex?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdejanualex&screen_name=dejanualex)
 
 <br />
@@ -33,7 +34,7 @@
 [twitter]: https://twitter.com/dejanualex
 [linkedin]: https://linkedin.com/in/alexandru-dejanu-b28b3ba5/
 [youtube]: https://www.youtube.com/channel/UCIH567CDkvt-aV7Hbs43XrA
-[instagram]: https://www.sololearn.com/profile/2194904
+[sololearn]: https://www.sololearn.com/profile/2194904
 
 
 
