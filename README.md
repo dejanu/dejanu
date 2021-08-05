@@ -1,7 +1,7 @@
 <!--
 **dejanu/dejanu** is a ✨ _special_ ✨ 👋
 -->
-## Jack of all trades master of none ✨✨✨✨
+## Jack of all trades master of none ✨
 
 <br />
 
@@ -32,6 +32,7 @@
 
 [twitter]: https://twitter.com/dejanualex
 [linkedin]: https://linkedin.com/in/alexandru-dejanu-b28b3ba5/
+[youtube]: https://www.youtube.com/channel/UCIH567CDkvt-aV7Hbs43XrA
 
 
 
