@@ -32,7 +32,7 @@
 
 ## Latest stuff:
 <!-- BLOG-POST-LIST:START -->
-- [Debug and troubleshoot OpenShift clusters](https://dejanualexandru.medium.com/debug-and-troubleshoot-openshift-clusters-85b50d6575ba?source=rss-29b02aa121d2------2)
+- [Debug and troubleshoot OpenShift clusters](https://faun.pub/debug-and-troubleshoot-openshift-clusters-85b50d6575ba?source=rss-29b02aa121d2------2)
 - [— the “dirty” secrets of containers —](https://faun.pub/the-dirty-secrets-of-containers-1af11bd15e9d?source=rss-29b02aa121d2------2)
 - [DevOps jargon](https://faun.pub/devops-jargon-7fd1f7e46fc6?source=rss-29b02aa121d2------2)
 - [From container to pod — demystifying container runtimes](https://faun.pub/from-container-to-pod-demystifying-container-runtimes-a3fd03ee0601?source=rss-29b02aa121d2------2)
