@@ -28,11 +28,11 @@
 ## Latest stuff:
 
 <!-- BLOG-POST-LIST:START -->
-- [What is the deal with CNAB?](https://faun.pub/what-is-the-deal-with-cnab-e620adfa6e5f?source=rss-29b02aa121d2------2)
-- [Observability and Monitoring 101](https://faun.pub/observability-and-monitoring-101-cd511b1db7cf?source=rss-29b02aa121d2------2)
-- [Debug and troubleshoot OpenShift clusters](https://faun.pub/debug-and-troubleshoot-openshift-clusters-85b50d6575ba?source=rss-29b02aa121d2------2)
-- [— the “dirty” secrets of containers —](https://faun.pub/the-dirty-secrets-of-containers-1af11bd15e9d?source=rss-29b02aa121d2------2)
-- [DevOps jargon](https://faun.pub/devops-jargon-7fd1f7e46fc6?source=rss-29b02aa121d2------2)
+- [kubectl output like a pro](https://dev.to/dejanualex/kubectl-output-like-a-pro-157d)
+- [Do you really want to work in an innovative organization?](https://dejanualexandru.medium.com/do-you-really-want-to-work-in-an-innovative-organization-d3b29f9c2427?source=rss-29b02aa121d2------2)
+- [OpenSSL a swiss army knife - part1](https://dev.to/dejanualex/openssl-a-swiss-army-knife-part1-oih)
+- [Tale of a Kubernetes upgrade](https://faun.pub/tale-of-a-kubernetes-upgrade-7a08e5d5528a?source=rss-29b02aa121d2------2)
+- [The practical value of an SRE team](https://faun.pub/the-practical-value-of-a-sre-team-eb277664258?source=rss-29b02aa121d2------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
