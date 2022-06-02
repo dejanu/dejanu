@@ -26,6 +26,7 @@
 <br />
 
 ## Latest stuff:
+
 <!-- BLOG-POST-LIST:START -->
 - [What is the deal with CNAB?](https://faun.pub/what-is-the-deal-with-cnab-e620adfa6e5f?source=rss-29b02aa121d2------2)
 - [Observability and Monitoring 101](https://faun.pub/observability-and-monitoring-101-cd511b1db7cf?source=rss-29b02aa121d2------2)
