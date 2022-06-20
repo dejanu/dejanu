@@ -27,11 +27,11 @@
 ## Latest stuff:
 
 <!-- BLOG-POST-LIST:START -->
+- [tHe FeAr oF AI?](https://dejanualexandru.medium.com/the-fear-of-ai-c85f85f98cd7?source=rss-29b02aa121d2------2)
 - [Python — knotty interview questions](https://faun.pub/python-knotty-interview-questions-2cb69ab0db8f?source=rss-29b02aa121d2------2)
 - [kubectl output like a pro](https://dev.to/dejanualex/kubectl-output-like-a-pro-157d)
 - [Do you really want to work in an innovative organization?](https://dejanualexandru.medium.com/do-you-really-want-to-work-in-an-innovative-organization-d3b29f9c2427?source=rss-29b02aa121d2------2)
 - [OpenSSL a swiss army knife - part1](https://dev.to/dejanualex/openssl-a-swiss-army-knife-part1-oih)
-- [Tale of a Kubernetes upgrade](https://faun.pub/tale-of-a-kubernetes-upgrade-7a08e5d5528a?source=rss-29b02aa121d2------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
