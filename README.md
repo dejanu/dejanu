@@ -27,7 +27,7 @@
 ## Latest stuff:
 
 <!-- BLOG-POST-LIST:START -->
-- [Probing Kubernetes architecture](https://dejanualexandru.medium.com/probing-kubernetes-architecture-c600a95d25b2?source=rss-29b02aa121d2------2)
+- [Probing Kubernetes architecture](https://faun.pub/probing-kubernetes-architecture-c600a95d25b2?source=rss-29b02aa121d2------2)
 - [The mathematics behind monitoring](https://devopsquare.com/the-mathematics-behind-monitoring-ddbd9403c32c?source=rss-29b02aa121d2------2)
 - [tHe FeAr oF AI?](https://dejanualexandru.medium.com/the-fear-of-ai-c85f85f98cd7?source=rss-29b02aa121d2------2)
 - [Python — knotty interview questions](https://faun.pub/python-knotty-interview-questions-2cb69ab0db8f?source=rss-29b02aa121d2------2)
