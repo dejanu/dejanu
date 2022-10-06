@@ -27,11 +27,11 @@
 ## Latest stuff:
 
 <!-- BLOG-POST-LIST:START -->
+- [The value of a Service Mesh — Istio metrics](https://dejanualexandru.medium.com/the-value-of-a-service-mesh-istio-metrics-65c9a929bc25?source=rss-29b02aa121d2------2)
 - [Kubernetes capacity management — resources and metrics](https://dejanualexandru.medium.com/kubernetes-capacity-management-resources-and-metrics-d449d65955cb?source=rss-29b02aa121d2------2)
 - [Kubernetes Pod/Container states](https://dev.to/dejanualex/kubernetes-podcontainer-states-1ll5)
 - [System Design — get your feet wet](https://faun.pub/system-design-get-your-feet-wet-720d40d177d3?source=rss-29b02aa121d2------2)
 - [Azure Kubernetes Service — behind the scenes](https://dejanualexandru.medium.com/azure-kubernetes-service-behind-the-scenes-8220c0718c7b?source=rss-29b02aa121d2------2)
-- [Probing Kubernetes architecture](https://faun.pub/probing-kubernetes-architecture-c600a95d25b2?source=rss-29b02aa121d2------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
