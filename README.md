@@ -27,7 +27,7 @@
 ## Latest stuff:
 
 <!-- BLOG-POST-LIST:START -->
-- [Improve your codebase](https://dev.to/dejanualex/improve-your-codebase-4hek)
+- [Improve your codebase](https://dev.to/aws-builders/improve-your-codebase-4hek)
 - [The value of a Service Mesh — Istio metrics](https://dejanualexandru.medium.com/the-value-of-a-service-mesh-istio-metrics-65c9a929bc25?source=rss-29b02aa121d2------2)
 - [Kubernetes capacity management — resources and metrics](https://dejanualexandru.medium.com/kubernetes-capacity-management-resources-and-metrics-d449d65955cb?source=rss-29b02aa121d2------2)
 - [Kubernetes Pod/Container states](https://dev.to/dejanualex/kubernetes-podcontainer-states-1ll5)
