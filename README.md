@@ -27,11 +27,11 @@
 ## Latest stuff:
 
 <!-- BLOG-POST-LIST:START -->
+- [5 things you should really know about K8S resources](https://dev.to/dejanualex/5-things-you-should-really-know-about-k8s-resources-12kl)
 - [Improve your codebase](https://dev.to/aws-builders/improve-your-codebase-4hek)
 - [The value of a Service Mesh — Istio metrics](https://dejanualexandru.medium.com/the-value-of-a-service-mesh-istio-metrics-65c9a929bc25?source=rss-29b02aa121d2------2)
 - [Kubernetes capacity management — resources and metrics](https://dejanualexandru.medium.com/kubernetes-capacity-management-resources-and-metrics-d449d65955cb?source=rss-29b02aa121d2------2)
 - [Kubernetes Pod/Container states](https://dev.to/dejanualex/kubernetes-podcontainer-states-1ll5)
-- [System Design — get your feet wet](https://faun.pub/system-design-get-your-feet-wet-720d40d177d3?source=rss-29b02aa121d2------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
