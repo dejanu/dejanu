@@ -28,10 +28,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Leverage the power of the community](https://dev.to/aws-builders/leverage-the-power-of-the-community-ob4)
-- [Kubernetes capacity management](https://blog.devops.dev/kubernetes-capacity-management-42bfc39b7f6b?source=rss-29b02aa121d2------2)
 - [Paving the way to Serverless - AWS Application Composer](https://dev.to/aws-builders/paving-the-way-to-serverless-aws-application-composer-4mlf)
 - [5 things you should really know about K8S resources](https://dev.to/dejanualex/5-things-you-should-really-know-about-k8s-resources-12kl)
 - [Improve your codebase](https://dev.to/aws-builders/improve-your-codebase-4hek)
+- [Kubernetes Pod/Container states](https://dev.to/dejanualex/kubernetes-podcontainer-states-1ll5)
 <!-- BLOG-POST-LIST:END -->
 
 ---
