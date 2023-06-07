@@ -27,11 +27,11 @@
 ## Latest stuff:
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux: Execute commands in parallel without parallel-ssh or Ansible](https://dejanualexandru.medium.com/linux-execute-commands-in-parallel-without-parallel-ssh-or-ansible-daf78a545b2f?source=rss-29b02aa121d2------2)
 - [Mojo Enabling AI to be used by anyone, anywhere](https://dejanualexandru.medium.com/mojo-enabling-ai-to-be-used-by-anyone-anywhere-a1f12e970070?source=rss-29b02aa121d2------2)
 - [Migrating from Docker](https://blog.devops.dev/migrating-from-docker-d755b36dcf78?source=rss-29b02aa121d2------2)
 - [Kubectl Zero-to-Hero](https://dejanualexandru.medium.com/kubectl-zero-to-hero-a8022ec7d057?source=rss-29b02aa121d2------2)
 - [Iron Bank: Secure Registries, Secure Containers](https://dev.to/dejanualex/iron-bank-secure-registries-secure-containers-5195)
-- [Leverage the power of the community](https://dev.to/aws-builders/leverage-the-power-of-the-community-ob4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
