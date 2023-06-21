@@ -27,7 +27,7 @@
 ## Latest stuff:
 
 <!-- BLOG-POST-LIST:START -->
-- [Generative AI: Tiptoeing through the concepts and terms](https://dejanualexandru.medium.com/generative-ai-tiptoeing-through-the-concepts-and-terms-6053f2b9e6a6?source=rss-29b02aa121d2------2)
+- [Generative AI: Tiptoeing through the concepts and terms](https://faun.pub/generative-ai-tiptoeing-through-the-concepts-and-terms-6053f2b9e6a6?source=rss-29b02aa121d2------2)
 - [Linux: Execute commands in parallel without parallel-ssh or Ansible](https://dejanualexandru.medium.com/linux-execute-commands-in-parallel-without-parallel-ssh-or-ansible-daf78a545b2f?source=rss-29b02aa121d2------2)
 - [Mojo Enabling AI to be used by anyone, anywhere](https://dejanualexandru.medium.com/mojo-enabling-ai-to-be-used-by-anyone-anywhere-a1f12e970070?source=rss-29b02aa121d2------2)
 - [Migrating from Docker](https://blog.devops.dev/migrating-from-docker-d755b36dcf78?source=rss-29b02aa121d2------2)
