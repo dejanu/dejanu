@@ -11,6 +11,7 @@
 
 
 <br />
+
 ## Connect with me:
 
 [<img align="left" alt="dejanu | YouTube" width="22px" src="yt.svg" />][youtube]
@@ -19,6 +20,7 @@
 [<img align="left" alt="dejanu | Instagram" width="22px" src="sololearn.ico" />][sololearn]
 
 <br />
+
 ## Latest stuff:
 
 <!-- BLOG-POST-LIST:START -->
