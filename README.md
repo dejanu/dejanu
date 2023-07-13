@@ -24,11 +24,11 @@
 ## Latest stuff:
 
 <!-- BLOG-POST-LIST:START -->
+- [EKS: Guide to create Kubernetes clusters in AWS](https://dev.to/aws-builders/eks-guide-to-create-kubernetes-clusters-in-aws-e7a)
 - [OpenSSL verify Private Key and Certificate Match - part 3](https://dev.to/dejanualex/openssl-verify-private-key-and-certificate-match-part-3-3col)
 - [OpenSSL generating self-signed certificates - part 2](https://dev.to/dejanualex/openssl-generating-self-signed-certificates-part-2-30lj)
 - [AKS patching costs](https://dejanualexandru.medium.com/aks-patching-costs-a1a22db43b8c?source=rss-29b02aa121d2------2)
 - [Generative AI: Tiptoeing through the concepts and terms](https://faun.pub/generative-ai-tiptoeing-through-the-concepts-and-terms-6053f2b9e6a6?source=rss-29b02aa121d2------2)
-- [Linux: Execute commands in parallel without parallel-ssh or Ansible](https://dejanualexandru.medium.com/linux-execute-commands-in-parallel-without-parallel-ssh-or-ansible-daf78a545b2f?source=rss-29b02aa121d2------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
