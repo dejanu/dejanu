@@ -25,7 +25,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [OpenSearch as Vector DB: Supercharge Your LLM](https://dev.to/aws-builders/opensearch-as-vector-db-supercharge-your-llm-3662)
-- [OpenSearch as Vector DB: Supercharge Your LLM](https://dejanualexandru.medium.com/opensearch-as-vector-db-supercharge-your-llm-fbd90d74c421?source=rss-29b02aa121d2------2)
+- [OpenSearch as Vector DB: Supercharge Your LLM](https://blog.gopenai.com/opensearch-as-vector-db-supercharge-your-llm-fbd90d74c421?source=rss-29b02aa121d2------2)
 - [LLM and Vector Databases](https://dejanualexandru.medium.com/llm-and-vector-databases-d2530f03f6be?source=rss-29b02aa121d2------2)
 - [What is a service mesh: Istio](https://dejanualexandru.medium.com/what-is-a-service-mesh-istio-9ef15984029f?source=rss-29b02aa121d2------2)
 - [Istio CRD triplet](https://dev.to/dejanualex/istio-crd-triplet-1lnl)
