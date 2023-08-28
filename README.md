@@ -24,11 +24,11 @@
 ## Latest stuff:
 
 <!-- BLOG-POST-LIST:START -->
+- [What is a Software Bill of Materials &lpar;SBOM&rpar;?](https://dev.to/dejanualex/what-is-a-software-bill-of-materials-sbom-2ej6)
 - [OpenSearch as Vector DB: Supercharge Your LLM](https://dev.to/aws-builders/opensearch-as-vector-db-supercharge-your-llm-3662)
 - [Istio CRD triplet](https://dev.to/dejanualex/istio-crd-triplet-1lnl)
 - [EKS: Guide to create Kubernetes clusters in AWS](https://dev.to/aws-builders/eks-guide-to-create-kubernetes-clusters-in-aws-e7a)
 - [OpenSSL verify Private Key and Certificate Match - part 3](https://dev.to/dejanualex/openssl-verify-private-key-and-certificate-match-part-3-3col)
-- [OpenSSL generating self-signed certificates - part 2](https://dev.to/dejanualex/openssl-generating-self-signed-certificates-part-2-30lj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
