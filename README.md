@@ -3,9 +3,9 @@
 -->
 ## About me
 
-__Jack of all trades, master of None__: 
+🛠 __Techstack__: 
 
-Techstack:
+
 <img align="center" alt="dejanu | docker" width="30px" src="docker.svg"/>
 <img align="center" alt="dejanu | python" width="30px" src="python.svg"/>
 <img align="center" alt="dejanu | k8s" width="30px" src="kubernetes.svg"/>
