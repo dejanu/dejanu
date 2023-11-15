@@ -14,11 +14,11 @@
 ## Latest articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [Docker ENV, ARG commands](https://dejanualex.medium.com/docker-env-arg-commands-edfb1c42d1e3?source=rss-29b02aa121d2------2)
+- [Kubernetes architecture: In a Nutshell](https://faun.pub/kubernetes-architecture-in-a-nutshell-801a6f558f52?source=rss-29b02aa121d2------2)
 - [What is a Software Bill of Materials &lpar;SBOM&rpar;?](https://dev.to/dejanualex/what-is-a-software-bill-of-materials-sbom-2ej6)
-- [OpenSearch as Vector DB: Supercharge Your LLM](https://dev.to/aws-builders/opensearch-as-vector-db-supercharge-your-llm-3662)
-- [Istio CRD triplet](https://dev.to/dejanualex/istio-crd-triplet-1lnl)
-- [EKS: Guide to create Kubernetes clusters in AWS](https://dev.to/aws-builders/eks-guide-to-create-kubernetes-clusters-in-aws-e7a)
-- [OpenSSL verify Private Key and Certificate Match - part 3](https://dev.to/dejanualex/openssl-verify-private-key-and-certificate-match-part-3-3col)
+- [Security Supply Chain 101](https://dejanualex.medium.com/security-supply-chain-101-a7889074bf45?source=rss-29b02aa121d2------2)
+- [Kubernetes jargon](https://blog.stackademic.com/kubernetes-jargon-e1f30b26f2c?source=rss-29b02aa121d2------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
