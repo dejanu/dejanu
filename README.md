@@ -14,11 +14,11 @@
 ## Latest articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [Uninterrupted Processes in Linux: disown and nohup](https://dev.to/dejanualex/uninterrupted-processes-in-linux-disown-and-nohup-2352)
 - [Docker ENV, ARG commands](https://dejanualex.medium.com/docker-env-arg-commands-edfb1c42d1e3?source=rss-29b02aa121d2------2)
 - [Kubernetes architecture: In a Nutshell](https://faun.pub/kubernetes-architecture-in-a-nutshell-801a6f558f52?source=rss-29b02aa121d2------2)
 - [What is a Software Bill of Materials &lpar;SBOM&rpar;?](https://dev.to/dejanualex/what-is-a-software-bill-of-materials-sbom-2ej6)
 - [Security Supply Chain 101](https://dejanualex.medium.com/security-supply-chain-101-a7889074bf45?source=rss-29b02aa121d2------2)
-- [Kubernetes jargon](https://blog.stackademic.com/kubernetes-jargon-e1f30b26f2c?source=rss-29b02aa121d2------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
