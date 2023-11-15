@@ -5,11 +5,7 @@
 
 🛠 __Techstack__: 
 
-
-<img align="center" alt="dejanu | docker" width="30px" src="docker.svg"/>
-<img align="center" alt="dejanu | python" width="30px" src="python.svg"/>
-<img align="center" alt="dejanu | k8s" width="30px" src="kubernetes.svg"/>
-<img align="center" alt="dejanu | go" width="30px" src="golang.svg"/>
+<img align="center" alt="dejanu | docker" width="30px" src="docker.svg"/> <img align="center" alt="dejanu | python" width="30px" src="python.svg"/> <img align="center" alt="dejanu | k8s" width="30px" src="kubernetes.svg"/> <img align="center" alt="dejanu | go" width="30px" src="golang.svg"/>
 
 <br>
 
