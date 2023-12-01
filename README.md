@@ -15,11 +15,11 @@
 ## Latest articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [From Docker to Kubernetes: Starting apps in containers](https://dejanualex.medium.com/from-docker-to-kubernetes-starting-apps-in-containers-c52945c57fbb?source=rss-29b02aa121d2------2)
 - [Uninterrupted Processes in Linux: disown and nohup](https://dev.to/dejanualex/uninterrupted-processes-in-linux-disown-and-nohup-2352)
+- [Docker ENV, ARG commands](https://dejanualex.medium.com/docker-env-arg-commands-edfb1c42d1e3?source=rss-29b02aa121d2------2)
+- [Kubernetes architecture: In a Nutshell](https://faun.pub/kubernetes-architecture-in-a-nutshell-801a6f558f52?source=rss-29b02aa121d2------2)
 - [What is a Software Bill of Materials &lpar;SBOM&rpar;?](https://dev.to/dejanualex/what-is-a-software-bill-of-materials-sbom-2ej6)
-- [OpenSearch as Vector DB: Supercharge Your LLM](https://dev.to/aws-builders/opensearch-as-vector-db-supercharge-your-llm-3662)
-- [Istio CRD triplet](https://dev.to/dejanualex/istio-crd-triplet-1lnl)
-- [EKS: Guide to create Kubernetes clusters in AWS](https://dev.to/aws-builders/eks-guide-to-create-kubernetes-clusters-in-aws-e7a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
