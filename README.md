@@ -15,11 +15,11 @@
 ## Latest articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenSearch for humans](https://dejanualex.medium.com/opensearch-for-humans-0b946d87d32f?source=rss-29b02aa121d2------2)
 - [Vim Flex: Power Moves](https://dejanualex.medium.com/vim-flex-power-moves-43ddfa26e0c7?source=rss-29b02aa121d2------2)
 - [Quickly assess Docker images](https://dejanualex.medium.com/quickly-assess-docker-images-33ac17f9b5d5?source=rss-29b02aa121d2------2)
 - [Ingress in one minute](https://dejanualex.medium.com/ingress-in-one-minute-7fad701503f6?source=rss-29b02aa121d2------2)
 - [Distributed systems](https://dejanualex.medium.com/distributed-systems-5947f2759696?source=rss-29b02aa121d2------2)
-- [From Docker to Kubernetes: Starting apps in containers](https://dejanualex.medium.com/from-docker-to-kubernetes-starting-apps-in-containers-c52945c57fbb?source=rss-29b02aa121d2------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
