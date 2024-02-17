@@ -15,11 +15,11 @@
 ## Latest articles:
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenSearch for humans](https://medium.com/cloud-native-daily/opensearch-for-humans-0b946d87d32f?source=rss-29b02aa121d2------2)
-- [Vim Flex: Power Moves](https://dejanualex.medium.com/vim-flex-power-moves-43ddfa26e0c7?source=rss-29b02aa121d2------2)
-- [Quickly assess Docker images](https://dejanualex.medium.com/quickly-assess-docker-images-33ac17f9b5d5?source=rss-29b02aa121d2------2)
-- [Ingress in one minute](https://dejanualex.medium.com/ingress-in-one-minute-7fad701503f6?source=rss-29b02aa121d2------2)
-- [Distributed systems](https://dejanualex.medium.com/distributed-systems-5947f2759696?source=rss-29b02aa121d2------2)
+- [Uninterrupted Processes in Linux: disown and nohup](https://dev.to/dejanualex/uninterrupted-processes-in-linux-disown-and-nohup-2352)
+- [What is a Software Bill of Materials &lpar;SBOM&rpar;?](https://dev.to/dejanualex/what-is-a-software-bill-of-materials-sbom-2ej6)
+- [OpenSearch as Vector DB: Supercharge Your LLM](https://dev.to/aws-builders/opensearch-as-vector-db-supercharge-your-llm-3662)
+- [Istio CRD triplet](https://dev.to/dejanualex/istio-crd-triplet-1lnl)
+- [EKS: Guide to create Kubernetes clusters in AWS](https://dev.to/aws-builders/eks-guide-to-create-kubernetes-clusters-in-aws-e7a)
 <!-- BLOG-POST-LIST:END -->
 
 ---
