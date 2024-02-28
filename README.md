@@ -15,7 +15,7 @@
 ## Latest articles:
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenSearch for humans](https://dev.to/dejanualex/opensearch-for-humans-344j)
+- [OpenSearch for humans](https://dev.to/aws-builders/opensearch-for-humans-344j)
 - [OpenSearch for Humans](https://aws.plainenglish.io/opensearch-for-humans-0b946d87d32f?source=rss-29b02aa121d2------2)
 - [Vim Flex: Power Moves](https://dejanualex.medium.com/vim-flex-power-moves-43ddfa26e0c7?source=rss-29b02aa121d2------2)
 - [Quickly assess Docker images](https://dejanualex.medium.com/quickly-assess-docker-images-33ac17f9b5d5?source=rss-29b02aa121d2------2)
