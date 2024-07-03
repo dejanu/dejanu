@@ -15,11 +15,11 @@
 ## Latest articles:
 
 <!-- BLOG-POST-LIST:START -->
-- [Containers: An Empathic Manifesto](https://dejanualex.medium.com/containers-an-empathic-manifesto-41a412ee495e?source=rss-29b02aa121d2------2)
-- [Interested in Kubernetes scaling?](https://dejanualex.medium.com/interested-in-kubernetes-scaling-ffde84d5eced?source=rss-29b02aa121d2------2)
-- [OpenSearch: Do some stats on your indices](https://dejanualex.medium.com/opensearch-do-some-stats-on-your-indices-ac9bb5670444?source=rss-29b02aa121d2------2)
-- [Borg: Kubernetes’ Predecessor](https://dejanualex.medium.com/borg-kubernetes-predecessor-a1d37d64b53a?source=rss-29b02aa121d2------2)
 - [OpenSearch for humans](https://dev.to/aws-builders/opensearch-for-humans-344j)
+- [Uninterrupted Processes in Linux: disown and nohup](https://dev.to/dejanualex/uninterrupted-processes-in-linux-disown-and-nohup-2352)
+- [What is a Software Bill of Materials &lpar;SBOM&rpar;?](https://dev.to/dejanualex/what-is-a-software-bill-of-materials-sbom-2ej6)
+- [OpenSearch as Vector DB: Supercharge Your LLM](https://dev.to/aws-builders/opensearch-as-vector-db-supercharge-your-llm-3662)
+- [Istio CRD triplet](https://dev.to/dejanualex/istio-crd-triplet-1lnl)
 <!-- BLOG-POST-LIST:END -->
 
 ---
