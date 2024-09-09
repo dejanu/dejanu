@@ -15,11 +15,11 @@
 ## Latest articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [Docker Engine overview](https://dejanualex.medium.com/docker-engine-overview-e25b94484788?source=rss-29b02aa121d2------2)
 - [The Scoop On OpenSearch sizing](https://dejanualex.medium.com/the-scoop-on-opensearch-sizing-cff23c516237?source=rss-29b02aa121d2------2)
 - [The Scoop On OpenSearch sizing](https://dev.to/aws-builders/the-scoop-on-opensearch-sizing-1c9e)
 - [Seven rules for OpenSearch sizing](https://dev.to/aws-builders/seven-rules-for-opensearch-sizing-jo3)
 - [Containers: An Empathic Manifesto](https://dejanualex.medium.com/containers-an-empathic-manifesto-41a412ee495e?source=rss-29b02aa121d2------2)
-- [Interested in Kubernetes scaling?](https://dejanualex.medium.com/interested-in-kubernetes-scaling-ffde84d5eced?source=rss-29b02aa121d2------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
