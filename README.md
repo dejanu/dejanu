@@ -15,11 +15,11 @@
 ## Latest articles:
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Engine overview](https://faun.pub/docker-engine-overview-e25b94484788?source=rss-29b02aa121d2------2)
-- [The Scoop On OpenSearch sizing](https://dejanualex.medium.com/the-scoop-on-opensearch-sizing-cff23c516237?source=rss-29b02aa121d2------2)
 - [The Scoop On OpenSearch sizing](https://dev.to/aws-builders/the-scoop-on-opensearch-sizing-1c9e)
 - [Seven rules for OpenSearch sizing](https://dev.to/aws-builders/seven-rules-for-opensearch-sizing-jo3)
-- [Containers: An Empathic Manifesto](https://dejanualex.medium.com/containers-an-empathic-manifesto-41a412ee495e?source=rss-29b02aa121d2------2)
+- [OpenSearch for humans](https://dev.to/aws-builders/opensearch-for-humans-344j)
+- [Uninterrupted Processes in Linux: disown and nohup](https://dev.to/dejanualex/uninterrupted-processes-in-linux-disown-and-nohup-2352)
+- [What is a Software Bill of Materials &lpar;SBOM&rpar;?](https://dev.to/dejanualex/what-is-a-software-bill-of-materials-sbom-2ej6)
 <!-- BLOG-POST-LIST:END -->
 
 ---
