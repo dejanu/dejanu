@@ -15,11 +15,11 @@
 ## Latest articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [Not Yet Another Another Guide About Bash](https://dejanualex.medium.com/not-yet-another-another-guide-about-bash-327692da88ed?source=rss-29b02aa121d2------2)
 - [Monitoring techniques](https://dejanualex.medium.com/monitoring-techniques-c880bfb3de42?source=rss-29b02aa121d2------2)
 - [Docker Engine overview](https://faun.pub/docker-engine-overview-e25b94484788?source=rss-29b02aa121d2------2)
 - [The Scoop On OpenSearch sizing](https://dejanualex.medium.com/the-scoop-on-opensearch-sizing-cff23c516237?source=rss-29b02aa121d2------2)
 - [The Scoop On OpenSearch sizing](https://dev.to/aws-builders/the-scoop-on-opensearch-sizing-1c9e)
-- [Seven rules for OpenSearch sizing](https://dev.to/aws-builders/seven-rules-for-opensearch-sizing-jo3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
