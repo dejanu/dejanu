@@ -17,11 +17,11 @@ SRE 🔎 | DevOps 🚀 | Platform Engineer 🛠️
 ## Latest articles:
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Capacity 101](https://dejanualex.medium.com/kubernetes-capacity-101-51a7c3f939b6?source=rss-29b02aa121d2------2)
-- [The ABCs of Microservices](https://dejanualex.medium.com/the-abcs-of-microservices-2477cf2a5b2a?source=rss-29b02aa121d2------2)
 - [[Boost]](https://dev.to/dejanualex/-4f61)
 - [AWS Academy by PartyRock](https://dev.to/aws-builders/aws-academy-by-partyrock-2mie)
-- [Not Yet Another Another Guide About Bash](https://dejanualex.medium.com/not-yet-another-another-guide-about-bash-327692da88ed?source=rss-29b02aa121d2------2)
+- [The Scoop On OpenSearch sizing](https://dev.to/aws-builders/the-scoop-on-opensearch-sizing-1c9e)
+- [Seven rules for OpenSearch sizing](https://dev.to/aws-builders/seven-rules-for-opensearch-sizing-jo3)
+- [OpenSearch for humans](https://dev.to/aws-builders/opensearch-for-humans-344j)
 <!-- BLOG-POST-LIST:END -->
 
 ---
