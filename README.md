@@ -17,11 +17,11 @@ SRE 🔎 | DevOps 🚀 | Platform Engineer 🛠️
 ## Latest articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [34 years Docker Image](https://dejanualex.medium.com/34-years-docker-image-1e0dd240e335?source=rss-29b02aa121d2------2)
 - [GenZ lang: by Github Copilot](https://dejanualex.medium.com/genz-lang-by-github-copilot-f90757e559f8?source=rss-29b02aa121d2------2)
 - [Kubernetes Capacity 101](https://dejanualex.medium.com/kubernetes-capacity-101-51a7c3f939b6?source=rss-29b02aa121d2------2)
 - [The ABCs of Microservices](https://dejanualex.medium.com/the-abcs-of-microservices-2477cf2a5b2a?source=rss-29b02aa121d2------2)
 - [[Boost]](https://dev.to/dejanualex/-4f61)
-- [AWS Academy by PartyRock](https://dev.to/aws-builders/aws-academy-by-partyrock-2mie)
 <!-- BLOG-POST-LIST:END -->
 
 ---
