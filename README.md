@@ -17,7 +17,7 @@ SRE 🔎 | DevOps 🚀 | Platform Engineer 🛠️
 ## Latest articles:
 
 <!-- BLOG-POST-LIST:START -->
-- [The art of guesstimating](https://dev.to/dejanualex/the-art-of-guesstimating-3ne4)
+- [The art of guesstimating](https://dev.to/aws-builders/the-art-of-guesstimating-3ne4)
 - [TL;DR YAML anchors](https://dev.to/dejanualex/tldr-yaml-anchors-39gn)
 - [34 years Docker Image](https://dejanualex.medium.com/34-years-docker-image-1e0dd240e335?source=rss-29b02aa121d2------2)
 - [GenZ lang: by Github Copilot](https://dejanualex.medium.com/genz-lang-by-github-copilot-f90757e559f8?source=rss-29b02aa121d2------2)
