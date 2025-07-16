@@ -17,11 +17,11 @@ SRE 🔎 | DevOps 🚀 | Platform Engineer 🛠️
 ## Latest articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS Spot Instances: Business Case Essentials](https://dev.to/aws-builders/aws-spot-instances-business-case-essentials-51jk)
 - [The art of guesstimating](https://dev.to/aws-builders/the-art-of-guesstimating-3ne4)
 - [TL;DR YAML anchors](https://dev.to/dejanualex/tldr-yaml-anchors-39gn)
 - [34 years Docker Image](https://dejanualex.medium.com/34-years-docker-image-1e0dd240e335?source=rss-29b02aa121d2------2)
 - [GenZ lang: by Github Copilot](https://dejanualex.medium.com/genz-lang-by-github-copilot-f90757e559f8?source=rss-29b02aa121d2------2)
-- [Kubernetes Capacity 101](https://dejanualex.medium.com/kubernetes-capacity-101-51a7c3f939b6?source=rss-29b02aa121d2------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
