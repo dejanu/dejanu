@@ -17,11 +17,11 @@ SRE 🔎 | DevOps 🚀 | Platform Engineer 🛠️
 ## Latest articles:
 
 <!-- BLOG-POST-LIST:START -->
-- [To Overengineer or Not?](https://dejanualex.medium.com/to-overengineer-or-not-414e89ca2a56?source=rss-29b02aa121d2------2)
 - [AWS Spot Instances: Business Case Essentials](https://dev.to/aws-builders/aws-spot-instances-business-case-essentials-51jk)
 - [The art of guesstimating](https://dev.to/aws-builders/the-art-of-guesstimating-3ne4)
 - [TL;DR YAML anchors](https://dev.to/dejanualex/tldr-yaml-anchors-39gn)
-- [34 years Docker Image](https://dejanualex.medium.com/34-years-docker-image-1e0dd240e335?source=rss-29b02aa121d2------2)
+- [[Boost]](https://dev.to/dejanualex/-4f61)
+- [AWS Academy by PartyRock](https://dev.to/aws-builders/aws-academy-by-partyrock-2mie)
 <!-- BLOG-POST-LIST:END -->
 
 ---
