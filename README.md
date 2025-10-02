@@ -17,11 +17,11 @@ SRE 🔎 | DevOps 🚀 | Platform Engineer 🛠️
 ## Latest articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [Content Trust: Cosign](https://dejanualex.medium.com/content-trust-cosign-4fd183a65fa6?source=rss-29b02aa121d2------2)
 - [Reshaping the Job Market](https://dejanualex.medium.com/reshaping-the-job-market-5be1b4afab01?source=rss-29b02aa121d2------2)
 - [Kubernetes Distributed logging](https://dejanualex.medium.com/kubernetes-distributed-logging-3e890cc02842?source=rss-29b02aa121d2------2)
 - [To Overengineer or Not?](https://dejanualex.medium.com/to-overengineer-or-not-414e89ca2a56?source=rss-29b02aa121d2------2)
 - [AWS Spot Instances: Business Case Essentials](https://dev.to/aws-builders/aws-spot-instances-business-case-essentials-51jk)
-- [The art of guesstimating](https://dev.to/aws-builders/the-art-of-guesstimating-3ne4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
