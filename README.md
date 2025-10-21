@@ -17,11 +17,11 @@ SRE 🔎 | DevOps 🚀 | Platform Engineer 🛠️
 ## Latest articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [Host your Helm repo using GitHub](https://dejanualex.medium.com/host-your-helm-repo-using-github-212ee44466cd?source=rss-29b02aa121d2------2)
 - [Not All OSS Is Created Equal](https://dejanualex.medium.com/not-all-oss-is-created-equal-16f025c7b16c?source=rss-29b02aa121d2------2)
 - [Not All OSS Is Created Equal](https://dev.to/dejanualex/not-all-oss-is-created-equal-5fci)
 - [Content Trust: Cosign](https://dejanualex.medium.com/content-trust-cosign-4fd183a65fa6?source=rss-29b02aa121d2------2)
 - [Reshaping the Job Market](https://dejanualex.medium.com/reshaping-the-job-market-5be1b4afab01?source=rss-29b02aa121d2------2)
-- [Kubernetes Distributed logging](https://dejanualex.medium.com/kubernetes-distributed-logging-3e890cc02842?source=rss-29b02aa121d2------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
