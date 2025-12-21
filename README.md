@@ -17,11 +17,11 @@ SRE 🔎 | DevOps 🚀 | Platform Engineer 🛠️
 ## Latest articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes operator AWS ECR ecr-creds-refresher](https://dev.to/dejanualex/kubernetes-operator-aws-ecr-ecr-creds-refresher-43f8)
+- [ECR-creds-refresher](https://dev.to/aws-builders/ecr-creds-refresher-43g3)
 - [ECR-creds-refresher](https://dejanualex.medium.com/ecr-creds-refresher-f74ec7b87cb8?source=rss-29b02aa121d2------2)
 - [Host your Helm repo using GitHub](https://blog.devops.dev/host-your-helm-repo-using-github-212ee44466cd?source=rss-29b02aa121d2------2)
 - [Not All OSS Is Created Equal](https://dejanualex.medium.com/not-all-oss-is-created-equal-16f025c7b16c?source=rss-29b02aa121d2------2)
-- [Not All OSS Is Created Equal](https://dev.to/dejanualex/not-all-oss-is-created-equal-5fci)
-- [Content Trust: Cosign](https://dejanualex.medium.com/content-trust-cosign-4fd183a65fa6?source=rss-29b02aa121d2------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
