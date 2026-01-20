@@ -18,10 +18,10 @@ SRE 🔎 | DevOps 🚀 | Platform Engineer 🛠️
 
 <!-- BLOG-POST-LIST:START -->
 - [k8s debug pod](https://dev.to/aws-builders/k8s-debug-pod-57m4)
-- [k8s debug pod](https://dejanualex.medium.com/k8s-debug-pod-ce5fb88796ac?source=rss-29b02aa121d2------2)
-- [kubectl-imagescan](https://dejanualex.medium.com/kubectl-imagescan-72a2774a02b4?source=rss-29b02aa121d2------2)
-- [Financial bubbles](https://dejanualex.medium.com/financial-bubbles-701a0f8ef832?source=rss-29b02aa121d2------2)
 - [Kubernetes operator AWS ECR ecr-creds-refresher](https://dev.to/dejanualex/kubernetes-operator-aws-ecr-ecr-creds-refresher-43f8)
+- [ECR-creds-refresher](https://dev.to/aws-builders/ecr-creds-refresher-43g3)
+- [Not All OSS Is Created Equal](https://dev.to/dejanualex/not-all-oss-is-created-equal-5fci)
+- [AWS Spot Instances: Business Case Essentials](https://dev.to/aws-builders/aws-spot-instances-business-case-essentials-51jk)
 <!-- BLOG-POST-LIST:END -->
 
 ---
