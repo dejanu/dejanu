@@ -17,11 +17,11 @@ SRE 🔎 | DevOps 🚀 | Platform Engineer 🛠️
 ## Latest articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [kubectl kontext](https://dejanualex.medium.com/kubectl-kontext-48f2cfda1e03?source=rss-29b02aa121d2------2)
 - [k8s debug pod](https://dev.to/aws-builders/k8s-debug-pod-57m4)
 - [k8s debug pod](https://dejanualex.medium.com/k8s-debug-pod-ce5fb88796ac?source=rss-29b02aa121d2------2)
 - [kubectl-imagescan](https://dejanualex.medium.com/kubectl-imagescan-72a2774a02b4?source=rss-29b02aa121d2------2)
 - [Financial bubbles](https://dejanualex.medium.com/financial-bubbles-701a0f8ef832?source=rss-29b02aa121d2------2)
-- [Kubernetes operator AWS ECR ecr-creds-refresher](https://dev.to/dejanualex/kubernetes-operator-aws-ecr-ecr-creds-refresher-43f8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
