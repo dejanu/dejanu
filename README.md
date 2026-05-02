@@ -20,8 +20,8 @@ SRE 🔎 | DevOps 🚀 | Platform Engineer 🛠️
 - [No SSH? No etcdctl? Run etcdctl Instantly in Kubernetes](https://dejanualex.medium.com/no-ssh-no-etcdctl-run-etcdctl-instantly-in-kubernetes-1503e7352bfa?source=rss-29b02aa121d2------2)
 - [Claude MCP: From Zero To Hero](https://dejanualex.medium.com/claude-mcp-from-zero-to-hero-a5bca458d74c?source=rss-29b02aa121d2------2)
 - [Claude Code 101: An Agentic Coding Environment](https://dejanualex.medium.com/claude-code-101-an-agentic-coding-environment-88943ecededc?source=rss-29b02aa121d2------2)
-- [kubectl context like a pro](https://dev.to/aws-builders/kubectl-context-like-a-pro-1gch)
-- [From Zero to EKS in Minutes](https://dev.to/aws-builders/from-zero-to-eks-in-minutes-3blm)
+- [Trading Exchange](https://dejanualex.medium.com/trading-exchange-736161968260?source=rss-29b02aa121d2------2)
+- [kubectl kontext](https://dejanualex.medium.com/kubectl-kontext-48f2cfda1e03?source=rss-29b02aa121d2------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
