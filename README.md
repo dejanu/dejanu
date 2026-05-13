@@ -17,11 +17,11 @@ SRE 🔎 | DevOps 🚀 | Platform Engineer 🛠️
 ## Latest articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding K3S](https://dejanualex.medium.com/understanding-k3s-d5b950ea9d10?source=rss-29b02aa121d2------2)
+- [No SSH? No etcdctl? Run etcdctl Instantly in Kubernetes](https://dejanualex.medium.com/no-ssh-no-etcdctl-run-etcdctl-instantly-in-kubernetes-1503e7352bfa?source=rss-29b02aa121d2------2)
+- [Claude MCP: From Zero To Hero](https://dejanualex.medium.com/claude-mcp-from-zero-to-hero-a5bca458d74c?source=rss-29b02aa121d2------2)
+- [Claude Code 101: An Agentic Coding Environment](https://dejanualex.medium.com/claude-code-101-an-agentic-coding-environment-88943ecededc?source=rss-29b02aa121d2------2)
 - [kubectl context like a pro](https://dev.to/aws-builders/kubectl-context-like-a-pro-1gch)
-- [From Zero to EKS in Minutes](https://dev.to/aws-builders/from-zero-to-eks-in-minutes-3blm)
-- [k8s debug pod](https://dev.to/aws-builders/k8s-debug-pod-57m4)
-- [Kubernetes operator AWS ECR ecr-creds-refresher](https://dev.to/dejanualex/kubernetes-operator-aws-ecr-ecr-creds-refresher-43f8)
-- [ECR-creds-refresher](https://dev.to/aws-builders/ecr-creds-refresher-43g3)
 <!-- BLOG-POST-LIST:END -->
 
 ---
