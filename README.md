@@ -17,11 +17,11 @@ SRE 🔎 | DevOps 🚀 | Platform Engineer 🛠️
 ## Latest articles:
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Pause or Scale Down a DaemonSet on Specific Nodes](https://dejanualex.medium.com/how-to-pause-or-scale-down-a-daemonset-on-specific-nodes-3edabfb95c77?source=rss-29b02aa121d2------2)
 - [RAG Tutorial: Ask Questions About Your Documents](https://dejanualex.medium.com/rag-tutorial-ask-questions-about-your-documents-a537c9242523?source=rss-29b02aa121d2------2)
 - [Using Harbor as a Registry Proxy Cache](https://dejanualex.medium.com/using-harbor-as-a-registry-proxy-cache-14e35eab4948?source=rss-29b02aa121d2------2)
 - [Understanding K3S](https://dejanualex.medium.com/understanding-k3s-d5b950ea9d10?source=rss-29b02aa121d2------2)
 - [Kubernetes etcd Troubleshooting](https://dejanualex.medium.com/no-ssh-no-etcdctl-run-etcdctl-instantly-in-kubernetes-1503e7352bfa?source=rss-29b02aa121d2------2)
-- [Claude MCP: From Zero To Hero](https://dejanualex.medium.com/claude-mcp-from-zero-to-hero-a5bca458d74c?source=rss-29b02aa121d2------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
